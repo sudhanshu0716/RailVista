@@ -1,0 +1,6 @@
+[submodule "train-journey-frontend"]
+    path = train-journey-frontend
+    url = https://github.com/sudhanshu0716/train-journey-frontend.git
+[submodule "train-journey-backend"]
+    path = train-journey-backend
+    url = https://github.com/sudhanshu0716/train-journey-backend.git
