@@ -1,3 +1,4 @@
+Deployed Link :https://railvista.netlify.app{Pre-release}
 RailVista – Revolutionizing Rail Travel in India
 Overview
 RailVista is a full-stack web application designed to improve the overall train travel experience by offering real-time assistance, smart navigation, and passenger-friendly features. Built using React for the frontend, Node.js for the backend, and MongoDB for database management, the platform ensures that train journeys are not only convenient but also safe, enjoyable, and interactive.
